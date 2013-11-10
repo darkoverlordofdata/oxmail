@@ -2,7 +2,9 @@
 
 Android webview wrapper hard coded to https://oxwebmail.registrar-servers.com/mobile/#login
 
-Because sometimes, you want your email in a seperate window, not the browser.
+Because sometimes, you want your email in a dedicated window, not a browser. 
+
+This app uses Apache Cordova to display the page.
 
 [Install] (https://raw.github.com/darkoverlordofdata/oxmail/master/OXMail.apk)
 
