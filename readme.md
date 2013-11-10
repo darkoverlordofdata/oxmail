@@ -2,4 +2,6 @@
 
 Android webview wrapper hard coded to https://oxwebmail.registrar-servers.com/mobile/#login
 
-Why? So I can't close the web browser tab my email was opened on. 
+Because sometimes, you want your email in a seperate window, not the browser.
+
+[Install] (https://raw.github.com/darkoverlordofdata/oxmail/master/OXMail.apk)
